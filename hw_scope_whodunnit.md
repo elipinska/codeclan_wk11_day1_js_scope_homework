@@ -243,7 +243,3 @@ console.log(verdict);
 Output:
 
 The murderer is Professor Plum.
-
-### Extensions
-
-Make up your own episode!
